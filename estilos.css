@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Quicksand:wght@500&family=Sometype+Mono:ital,wght@1,500&display=swap');
+
+/* font-family: 'Borel', cursive;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Sometype Mono', monospace;*/
+
+.navbar-toggler i{
+   color:#ece6f8
+}
+.nav-link{
+    color:#ece6f8 !important ;
+    padding-left: 10px !important;
+    font-family: 'Quicksand', sans-serif;
+}
+ .nav-link:hover{
+    background-color:#3a187e81 ;
+    border-radius: 10%;
+ }
+
+ a.navbar-brand{
+    font-family: 'Sometype Mono', monospace;
+ }
+
+.collapse{
+    display: flex;
+    justify-content: flex-end;
+}
+
+main{
+   height: 400px;
+   background-color:#c1aaeb ;
+   color: rgb(51, 50, 50);
+   font-family: 'Quicksand', sans-serif
+}
+
+aside{
+    height: 400px;
+    background-color:#c1aaeb ;
+    color: rgb(51, 50, 50);
+    font-family: 'Quicksand', sans-serif
+}
+
+footer{
+    height: 300px;
+    color:#dfd5f1;
+    font-family: 'Quicksand', sans-serif
+}
